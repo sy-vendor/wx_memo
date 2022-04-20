@@ -11,7 +11,7 @@ function editArr(arr,i,editCnt){
   return newArr;
 }
 
-//获取应用实例
+// 获取应用实例
 var app = getApp()
 Page({
   data: {  
