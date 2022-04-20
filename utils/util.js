@@ -10,6 +10,7 @@ function formatTime(date) {
   return [hour,minute];
 
  // return [ month, day].map(formatNumber).join('/') + ' ' + [hour, minute, second].map(formatNumber).join(':')
+    // todo
 }
 
 function formatNumber(n) {
