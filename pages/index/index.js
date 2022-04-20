@@ -84,7 +84,7 @@ Page({
       curFinish: e.detail.value
     })
   },
-  //修改备忘录
+  //修改备忘录 增删改查
   toChange(e){
     let i = e.target.dataset.id;
       this.setData({
