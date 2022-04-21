@@ -32,7 +32,7 @@ Page({
   },
   onLoad: function () {
     var that = this;
-    //获取之前保留在缓存里的数据
+    // 获取之前保留在缓存里的数据
     wx.getStorage({
       key: 'todolist',
       success: function(res) {
