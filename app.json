@@ -7,7 +7,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#656e7f",
-    "navigationBarTitleText": "备忘录",
+    "navigationBarTitleText": "备忘录 ",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
